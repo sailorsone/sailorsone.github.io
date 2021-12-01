@@ -1,2 +1,2 @@
-# sailorsone.github.io
-Sailors One Front End
+# cdn.sailors.one
+Sailors One CDN
