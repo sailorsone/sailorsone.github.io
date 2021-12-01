@@ -1,7 +1,7 @@
 const RootComponent = {
     data() {
         return {
-          messagge: 'Hello World!'
+          message: 'Hello World!'
         }
     }
 }
