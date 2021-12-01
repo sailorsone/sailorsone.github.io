@@ -2,9 +2,19 @@ body {
     font-family: 'Work Sans', sans-serif !important;
 }
 
+/* Color Pallette */
+.soBase {
+    color: #24292e !important;
+    background-color: #ffffff !important;
+}
 
+.soPrimary {
+    color: #ffffff !important;
+    background-color: #24292e !important;
+}
 
-.primary-bg {
-    background-color: #081c20 !important;
+.soSecondary {
+    color: #24292e !important;
+    background-color: #05c9f1 !important;
 }
 
