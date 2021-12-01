@@ -1,6 +1,5 @@
-var app = new Vue({
-    el: '#app',
-    data: {
-        message: 'Hola Vue!'
-    }
-})
+const RootComponent = {
+    /* options */
+}
+const app = Vue.createApp(RootComponent)
+const vm = app.mount('#app')
