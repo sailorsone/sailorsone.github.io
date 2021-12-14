@@ -8,6 +8,12 @@ body {
 }
 
 /* Color Pallette */
+#main {
+    background-color: red;
+}
+
+
+/* Color Pallette */
 .soBase {
     color: #24292e !important;
     background-color: #ffffff !important;
