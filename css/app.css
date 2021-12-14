@@ -1,13 +1,8 @@
 html {
     overflow-y: hidden !important;
-}
-
-body {
     font-family: 'Work Sans', sans-serif !important;
-    
 }
 
-/* BASE */
 #main {
     position: fixed;
     top: 3.25rem;
@@ -15,21 +10,3 @@ body {
     bottom: 3.25rem;
     left: 0;
 }
-
-
-/* Color Pallette */
-.soBase {
-    color: #24292e !important;
-    background-color: #ffffff !important;
-}
-
-.soPrimary {
-    color: #ffffff !important;
-    background-color: #24292e !important;
-}
-
-.soSecondary {
-    color: #24292e !important;
-    background-color: #05c9f1 !important;
-}
-
