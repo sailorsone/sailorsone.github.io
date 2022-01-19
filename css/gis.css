@@ -647,6 +647,14 @@ svg.leaflet-image-layer.leaflet-interactive path {
 	font: 11px/1.5 "Helvetica Neue", Arial, Helvetica, sans-serif;
 }
 
+.leaflet-control-velocity {
+	background-color: rgba(255, 255, 255, 0.7);
+	padding: 0 5px;
+	margin: 0 !important;
+	color: #333;
+	font: 11px/1.5 "Helvetica Neue", Arial, Helvetica, sans-serif;
+}
+
 .velocity-overlay {
 	position: absolute;
 	z-index: 1;
