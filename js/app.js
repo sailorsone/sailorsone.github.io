@@ -12,4 +12,3 @@ function loadContent(url) {
         console.log('Errore: ', err);
     });
 }
-
